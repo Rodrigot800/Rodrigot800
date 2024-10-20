@@ -3,7 +3,7 @@ Sou estudante de Engenharia de Software na Universidade doEstado do Pará (UEPA)
 <div>
   <a href="https://github.com/rodrigot800">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigot800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigot800&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigot800&layout=compact&langs_count=16&theme=dark&count_private=false"/>
 </div>
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,react,mysql,linux).(https://skillicons.dev)
 <div style="display: inline_block"><br>
