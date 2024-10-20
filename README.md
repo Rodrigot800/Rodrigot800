@@ -5,8 +5,8 @@ Sou estudante de Engenharia de Software na Universidade doEstado do Pará (UEPA)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigot800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigot800&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,react,mysql,linux).(https://skillicons.dev)
 <div style="display: inline_block"><br>
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img align="center" alt="Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
