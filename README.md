@@ -1,4 +1,4 @@
-## Sou estudante de Engenharia de Software na Universidade doEstado do Pará (UEPA), atualmente no 3º semestre do curso. Tenho habilidades em programação com as linguagens C, JavaScript, Kotlin,CSS e HTML, além de uma sólida compreensão no desenvolvimento web front-end. Também possuo conhecimentos em banco de dados,o que me permite trabalhar com eficiência na criação e manutençãode aplicações web completas. Estou em busca de uma oportunidade de estágio que me permita crescer profissionalmente e contribuir com minhas habilidades para o sucesso da equipe.
+Sou estudante de Engenharia de Software na Universidade doEstado do Pará (UEPA), atualmente no 3º semestre do curso. Tenho habilidades em programação com as linguagens C, JavaScript, Kotlin,CSS e HTML, além de uma sólida compreensão no desenvolvimento web front-end. Também possuo conhecimentos em banco de dados,o que me permite trabalhar com eficiência na criação e manutençãode aplicações web completas. Estou em busca de uma oportunidade de estágio que me permita crescer profissionalmente e contribuir com minhas habilidades para o sucesso da equipe.
 
 <div>
   <a href="https://github.com/rodrigot800">
